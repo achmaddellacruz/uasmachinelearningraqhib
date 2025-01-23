@@ -1,4 +1,7 @@
 streamlit
-scikit-learn==0.24.2
 pandas
 numpy
+scikit-learn
+plotly
+matplotlib
+pickle-mixin
