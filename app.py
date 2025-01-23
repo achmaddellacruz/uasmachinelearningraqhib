@@ -3,7 +3,7 @@ import pickle
 
 # Judul aplikasi
 st.title("Prediksi Biaya Asuransi")
-st.write("Nama: [Nama Anda], NIM: [NIM Anda]")
+st.write("Nama: Muhammad Raqhib Hamdi, NIM: 2021230037")
 
 # Load model yang telah disimpan
 with open("model_uas.pkl", "rb") as file:
